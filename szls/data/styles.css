@@ -1,0 +1,181 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+._一级标题 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+.sticky_1 {
+  text-align:left;
+}
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
+.box_1 {
+  font-family:'Roboto-Regular', 'Roboto', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.box_11 {
+}
+.line {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
+._连接 {
+}
+.icon {
+}
+.box_2 {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._形状 {
+}
+.box_3 {
+}
+._流程形状 {
+}
+._图片_ {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.image {
+}
+.marker {
+  color:#FFFFFF;
+}
+.form_disabled {
+}
+.heading_1 {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._文本段落1 {
+  text-align:left;
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.box_21 {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.box_31 {
+}
+.ellipse {
+}
+.button {
+}
+.flow_shape {
+}
+.sticky_3 {
+  text-align:left;
+}
+.ellipse1 {
+}
+.image1 {
+  color:#000000;
+}
+.el-button {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:center;
+}
+.image2 {
+}
+.inputed {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.icon1 {
+}
+.paragraph {
+  text-align:left;
+}
+.primary_button1 {
+  color:#FFFFFF;
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled1 {
+}
+.shape {
+}
+textarea, select, input, button { outline: none; }
