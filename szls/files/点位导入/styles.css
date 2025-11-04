@@ -2920,8 +2920,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:150px;
-  height:90px;
+  width:270px;
+  height:120px;
   background:inherit;
   background-color:rgba(255, 223, 37, 1);
   border:none;
@@ -2938,8 +2938,8 @@
   position:absolute;
   left:781px;
   top:1170px;
-  width:150px;
-  height:90px;
+  width:270px;
+  height:120px;
   display:flex;
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
