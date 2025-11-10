@@ -176,6 +176,9 @@
 }
 .form_disabled1 {
 }
+.paragraph1 {
+  text-align:left;
+}
 .shape {
 }
 textarea, select, input, button { outline: none; }
