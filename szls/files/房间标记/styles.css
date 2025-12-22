@@ -303,7 +303,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -316,7 +316,7 @@
   width:183px;
   height:28px;
   display:flex;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -582,7 +582,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -595,7 +595,7 @@
   width:183px;
   height:28px;
   display:flex;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -761,7 +761,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -774,7 +774,7 @@
   width:183px;
   height:28px;
   display:flex;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -940,7 +940,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -953,7 +953,7 @@
   width:1366px;
   height:44px;
   display:flex;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -995,7 +995,7 @@
   width:30px;
   height:30px;
   display:flex;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'MicrosoftYaHei', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1693,8 +1693,8 @@
 #u55 {
   border-width:0px;
   position:absolute;
-  left:472px;
-  top:154px;
+  left:428px;
+  top:173px;
   width:306px;
   height:194px;
   display:flex;
@@ -1716,10 +1716,10 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:330px;
-  height:39px;
+  width:207px;
+  height:97px;
   background:inherit;
-  background-color:rgba(242, 242, 242, 1);
+  background-color:rgba(255, 255, 255, 1);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -1729,10 +1729,10 @@
 #u56 {
   border-width:0px;
   position:absolute;
-  left:205px;
+  left:204px;
   top:109px;
-  width:330px;
-  height:39px;
+  width:207px;
+  height:97px;
   display:flex;
 }
 #u56 .text {
@@ -1779,8 +1779,8 @@
 #u58 {
   border-width:0px;
   position:absolute;
-  left:215px;
-  top:119px;
+  left:214px;
+  top:130px;
   width:71px;
   height:20px;
   display:flex;
@@ -1861,8 +1861,8 @@
 #u59 {
   border-width:0px;
   position:absolute;
-  left:292px;
-  top:114px;
+  left:291px;
+  top:125px;
   width:110px;
   height:29px;
   display:flex;
@@ -1895,4 +1895,98 @@
 #u59.disabled {
 }
 .u59_input_option {
+}
+#u60 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u61_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:71px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC', sans-serif;
+  font-weight:650;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
+}
+#u61 {
+  border-width:0px;
+  position:absolute;
+  left:214px;
+  top:173px;
+  width:71px;
+  height:20px;
+  display:flex;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC', sans-serif;
+  font-weight:650;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
+}
+#u61 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u61_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u62_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:29px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u62 {
+  border-width:0px;
+  position:absolute;
+  left:291px;
+  top:169px;
+  width:110px;
+  height:29px;
+  display:flex;
+}
+#u62 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u62_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
 }
