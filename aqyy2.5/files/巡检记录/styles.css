@@ -7737,3 +7737,73 @@
   word-wrap:break-word;
   text-transform:none;
 }
+#u474 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u475_img {
+  border-width:0px;
+  position:absolute;
+  left:-2px;
+  top:-2px;
+  width:204px;
+  height:110px;
+}
+#u475 {
+  border-width:0px;
+  position:absolute;
+  left:987px;
+  top:284px;
+  width:194px;
+  height:100px;
+  display:flex;
+  font-size:14px;
+  color:#464A5E;
+  text-align:left;
+}
+#u475 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u475_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u476_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:6px;
+  height:10px;
+}
+#u476 {
+  border-width:0px;
+  position:absolute;
+  left:981px;
+  top:285px;
+  width:6px;
+  height:10px;
+  display:flex;
+}
+#u476 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u476_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
