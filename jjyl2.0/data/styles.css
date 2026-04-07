@@ -67,6 +67,10 @@
 }
 .line {
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .heading_1 {
   font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
@@ -167,6 +171,13 @@
   font-size:18px;
   text-align:left;
 }
+._34号字_单行列表内，左方主标题文字字） {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  text-align:left;
+}
 ._30号字_服务主标题，例如双行列表内的下方描述信息。__） {
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
@@ -229,8 +240,23 @@
   font-size:12px;
   text-align:left;
 }
+.box_22 {
+  font-size:12px;
+}
 .box_32 {
   font-size:12px;
+}
+.heading_2 {
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:20px;
+  text-align:left;
+  line-height:28px;
+}
+.label2 {
+  font-size:12px;
+  text-align:left;
 }
 ._形状1 {
   font-family:'ArialMT', 'Arial', sans-serif;
