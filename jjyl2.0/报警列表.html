@@ -3337,7 +3337,7 @@
         <div id="u966" class="ax_default label1">
           <div id="u966_div" class=""></div>
           <div id="u966_text" class="text ">
-            <p><span>1.告警类型分为：报警，预警，故障三种类型告警；</span></p><p><span>报警：拨打呼叫，设备离线</span></p><p><span>预警：超过预警线，10小时无人</span></p><p><span>故障：电量低</span></p><p><span>2.以弹窗作为告警通知，点击处理即为知晓次告警，此时告警进入处理中状态；</span></p><p><span>3.处理过程为线下操作，处理完成后，回到系统填写处理回执，并结束次报警；</span></p><p><span>4.报警状态未变更为已处理时，不再重复产生报警信息。如出现重复上报的情况，需在当前报警详情中记录报警日志</span></p>
+            <p><span>1.告警类型分为：报警，预警，故障三种类型告警；</span></p><p><span>报警：拨打呼叫，设备离线</span></p><p><span>预警：超过预警线，10小时无人</span></p><p><span>故障：电量低</span></p><p><span>2.以弹窗作为告警通知，点击处理即为知晓次告警，此时告警进入处理中状态；</span></p><p><span>3.处理过程为线下操作，处理完成后，回到系统填写处理回执，并结束次报警；</span></p><p><span>4.报警状态未变更为已处理时，根据告警类型分别判断上报处理</span></p>
           </div>
         </div>
       </div>
@@ -4472,10 +4472,10 @@
       </div>
 
       <!-- Unnamed (矩形) -->
-      <div id="u1128" class="ax_default label">
+      <div id="u1128" class="ax_default sticky_4">
         <div id="u1128_div" class=""></div>
         <div id="u1128_text" class="text ">
-          <p><span>事件描述：XXX</span></p>
+          <p><span style="font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;">告警规则：</span></p><p><span style="font-family:'ArialMT', 'Arial', sans-serif;">1.</span><span style="font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;">报警类事件，随事件发生次数，在报警中心产生报警（如电话呼叫，每呼叫一次即为一个报警）；当无法区分是否为一次呼叫动作时（如：连续拨打电话）以一定时间范围作为辅助规则（暂定1小时），将期间拨打记录存储于当条报警中</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;">2.预警和故障类事件，以报警处理状态作为判断规则。未处理完成之前产生的相同报警事件，存储于当前报警日志中</span></p>
         </div>
       </div>
     </div>

@@ -20484,42 +20484,34 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:153px;
-  height:30px;
+  width:353px;
+  height:254px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 0);
+  background-color:rgba(239, 90, 161, 1);
   border:none;
   border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
-  font-weight:400;
-  font-style:normal;
-  font-size:22px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 #u1128 {
   border-width:0px;
   position:absolute;
-  left:1387px;
-  top:2373px;
-  width:153px;
-  height:30px;
+  left:2225px;
+  top:978px;
+  width:353px;
+  height:254px;
   display:flex;
-  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
-  font-weight:400;
-  font-style:normal;
-  font-size:22px;
 }
 #u1128 .text {
   position:absolute;
   align-self:flex-start;
-  padding:0px 0px 0px 0px;
+  padding:10px 10px 10px 10px;
   box-sizing:border-box;
   width:100%;
 }
 #u1128_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
