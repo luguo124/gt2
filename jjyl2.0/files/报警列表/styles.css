@@ -8693,6 +8693,10 @@
   width:103px;
   height:30px;
   display:flex;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#F59A23;
 }
 #u786 .text {
   position:absolute;
@@ -8705,7 +8709,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u787_img {
   border-width:0px;
