@@ -21389,3 +21389,41 @@
   word-wrap:break-word;
   text-transform:none;
 }
+#u1159_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:346px;
+  height:279px;
+  background:inherit;
+  background-color:rgba(112, 182, 3, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  color:#D9001B;
+}
+#u1159 {
+  border-width:0px;
+  position:absolute;
+  left:514px;
+  top:1098px;
+  width:346px;
+  height:279px;
+  display:flex;
+  color:#D9001B;
+}
+#u1159 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:10px 10px 10px 10px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1159_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
