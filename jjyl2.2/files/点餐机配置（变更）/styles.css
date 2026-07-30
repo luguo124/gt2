@@ -20310,3 +20310,33 @@
   word-wrap:break-word;
   text-transform:none;
 }
+#u4084_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1414px;
+  height:768px;
+}
+#u4084 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:2993px;
+  width:1414px;
+  height:768px;
+  display:flex;
+}
+#u4084 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u4084_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
