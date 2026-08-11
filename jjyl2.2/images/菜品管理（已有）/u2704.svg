@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="2379 211  12 12" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 2385 211  C 2388.36 211  2391 213.64  2391 217  C 2391 220.36  2388.36 223  2385 223  C 2381.64 223  2379 220.36  2379 217  C 2379 213.64  2381.64 211  2385 211  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-  <path d="M 2385 211.5  C 2388.08 211.5  2390.5 213.92  2390.5 217  C 2390.5 220.08  2388.08 222.5  2385 222.5  C 2381.92 222.5  2379.5 220.08  2379.5 217  C 2379.5 213.92  2381.92 211.5  2385 211.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="88px" height="88px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -2373 -327 )">
+    <path d="M 2374 331  A 3 3 0 0 1 2377 328 L 2457 328  A 3 3 0 0 1 2460 331 L 2460 411  A 3 3 0 0 1 2457 414 L 2377 414  A 3 3 0 0 1 2374 411 L 2374 331  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" />
+    <path d="M 2373.5 331  A 3.5 3.5 0 0 1 2377 327.5 L 2457 327.5  A 3.5 3.5 0 0 1 2460.5 331 L 2460.5 411  A 3.5 3.5 0 0 1 2457 414.5 L 2377 414.5  A 3.5 3.5 0 0 1 2373.5 411 L 2373.5 331  Z " stroke-width="1" stroke-dasharray="3,1" stroke="#d8d8d8" fill="none" stroke-dashoffset="0.5" />
+  </g>
 </svg>
