@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u6925_img {
+#u7339_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:1417px;
   height:768px;
 }
-#u6925 {
+#u7339 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -33,20 +33,20 @@
   height:768px;
   display:flex;
 }
-#u6925 .text {
+#u7339 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u6925_text {
+#u7339_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u6926_div {
+#u7340_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -64,7 +64,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u6926 {
+#u7340 {
   border-width:0px;
   position:absolute;
   left:1435px;
@@ -76,19 +76,19 @@
   font-weight:400;
   font-style:normal;
 }
-#u6926 .text {
+#u7340 .text {
   position:absolute;
   align-self:flex-start;
   padding:10px 10px 10px 10px;
   box-sizing:border-box;
   width:100%;
 }
-#u6926_text {
+#u7340_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u6927 {
+#u7341 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -96,7 +96,7 @@
   width:0px;
   height:0px;
 }
-#u6928_img {
+#u7342_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -104,7 +104,7 @@
   width:14px;
   height:14px;
 }
-#u6928 {
+#u7342 {
   border-width:0px;
   position:absolute;
   left:1262px;
@@ -113,20 +113,20 @@
   height:14px;
   display:flex;
 }
-#u6928 .text {
+#u7342 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u6928_text {
+#u7342_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u6929_div {
+#u7343_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -145,7 +145,7 @@
   font-style:normal;
   color:#02A7F0;
 }
-#u6929 {
+#u7343 {
   border-width:0px;
   position:absolute;
   left:1285px;
@@ -158,14 +158,14 @@
   font-style:normal;
   color:#02A7F0;
 }
-#u6929 .text {
+#u7343 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u6929_text {
+#u7343_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;

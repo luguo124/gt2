@@ -191,6 +191,9 @@
 .image2 {
   color:#000000;
 }
+.checkbox {
+  text-align:left;
+}
 .sticky_4 {
   text-align:left;
 }
@@ -237,7 +240,7 @@
   font-size:14px;
   text-align:left;
 }
-.checkbox {
+.checkbox1 {
   text-align:left;
 }
 .primary_button1 {

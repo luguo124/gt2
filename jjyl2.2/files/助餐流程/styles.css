@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u7122 {
+#u7536 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:0px;
   height:0px;
 }
-#u7123_img {
+#u7537_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -32,7 +32,7 @@
   width:768px;
   height:1197px;
 }
-#u7123 {
+#u7537 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -41,20 +41,20 @@
   height:1197px;
   display:flex;
 }
-#u7123 .text {
+#u7537 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u7123_text {
+#u7537_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u7124_div {
+#u7538_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -73,7 +73,7 @@
   font-style:normal;
   font-size:24px;
 }
-#u7124 {
+#u7538 {
   border-width:0px;
   position:absolute;
   left:117px;
@@ -86,19 +86,19 @@
   font-style:normal;
   font-size:24px;
 }
-#u7124 .text {
+#u7538 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u7124_text {
+#u7538_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u7125 {
+#u7539 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -106,7 +106,7 @@
   width:0px;
   height:0px;
 }
-#u7126_img {
+#u7540_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -114,7 +114,7 @@
   width:768px;
   height:1200px;
 }
-#u7126 {
+#u7540 {
   border-width:0px;
   position:absolute;
   left:854px;
@@ -123,20 +123,20 @@
   height:1200px;
   display:flex;
 }
-#u7126 .text {
+#u7540 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u7126_text {
+#u7540_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u7127_div {
+#u7541_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -155,7 +155,7 @@
   font-style:normal;
   font-size:24px;
 }
-#u7127 {
+#u7541 {
   border-width:0px;
   position:absolute;
   left:972px;
@@ -168,14 +168,14 @@
   font-style:normal;
   font-size:24px;
 }
-#u7127 .text {
+#u7541 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u7127_text {
+#u7541_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
