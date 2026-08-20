@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>社区食堂</title>
+    <defs>
+        <linearGradient x1="20.5747768%" y1="12.8236607%" x2="80.5970982%" y2="87.1177455%" id="linearGradient-1">
+            <stop stop-color="#60BDFB" offset="0%"></stop>
+            <stop stop-color="#318FF6" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="73.9642591%" gradientTransform="translate(0.500000,0.500000),scale(0.909091,1.000000),translate(-0.500000,-0.500000)" id="radialGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F5F5F5" offset="100%"></stop>
+        </radialGradient>
+        <path d="M11.55,26.6666667 L16.5,26.6666667 L16.5,16.57 L9.9,10.7566667 L3.30000003,16.57 L3.30000003,26.6666667 L8.25000003,26.6666667 L8.25000003,20 L11.55,20 L11.55,26.6666667 Z M31.35,30 L1.65000002,30 C0.738730178,30 -1.09912079e-15,29.2538079 -1.09912079e-15,28.3333333 L-1.09912079e-15,15.8116667 C-1.09912079e-15,15.3298369 0.206335591,14.8715621 0.565950022,14.555 L6.60000002,9.24 L6.60000002,1.66666668 C6.60000002,0.746192089 7.33873018,0 8.25000003,0 L31.35,0 C32.2612698,0 33,0.746192089 33,1.66666668 L33,28.3333333 C33,29.2538079 32.2612698,30 31.35,30 Z M23.1,13.3333333 L23.1,16.6666667 L26.4,16.6666667 L26.4,13.3333333 L23.1,13.3333333 Z M23.1,20 L23.1,23.3333333 L26.4,23.3333333 L26.4,20 L23.1,20 Z M23.1,6.66666668 L23.1,10 L26.4,10 L26.4,6.66666668 L23.1,6.66666668 Z M16.5,6.66666668 L16.5,10 L19.8,10 L19.8,6.66666668 L16.5,6.66666668 Z" id="path-3"></path>
+        <filter x="-24.2%" y="-23.3%" width="148.5%" height="153.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.247058823   0 0 0 0 0.580392157   0 0 0 0 0.988235294  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="终端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="项目选择" transform="translate(-521.000000, -359.000000)">
+            <g id="编组-2" transform="translate(174.000000, 149.000000)">
+                <g id="编组-5" transform="translate(311.000000, 140.000000)">
+                    <g id="编组-3" transform="translate(20.000000, 52.000000)">
+                        <g id="社区食堂" transform="translate(16.000000, 18.000000)">
+                            <path d="M30,0.5 C38.1462001,0.5 45.5212001,3.80189997 50.85965,9.14034995 C56.1981,14.4787999 59.5,21.8537999 59.5,30 C59.5,38.1462001 56.1981,45.5212001 50.85965,50.85965 C45.5212001,56.1981 38.1462001,59.5 30,59.5 C21.8537999,59.5 14.4787999,56.1981 9.14034995,50.85965 C3.80189997,45.5212001 0.5,38.1462001 0.5,30 C0.5,21.8537999 3.80189997,14.4787999 9.14034995,9.14034995 C14.4787999,3.80189997 21.8537999,0.5 30,0.5 Z" id="路径" stroke="#7CACE7" fill="url(#linearGradient-1)" opacity="0.7"></path>
+                            <g id="形状" transform="translate(13.000000, 15.000000)">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="url(#radialGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

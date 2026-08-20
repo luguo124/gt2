@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>减</title>
+    <g id="终端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="点餐页" transform="translate(-277.000000, -96.000000)">
+            <g id="编组-2" transform="translate(12.000000, 78.000000)">
+                <g id="减" transform="translate(266.000000, 19.000000)">
+                    <circle id="椭圆形" stroke="#EB5000" stroke-width="0.5" fill="#FF610F" cx="14" cy="14" r="14"></circle>
+                    <g id="1.通用/1.icon图标/填充/ellipsis备份" transform="translate(4.125000, 5.000000)">
+                        <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="19" height="19"></rect>
+                        <polygon id="路径" fill="#FFFFFF" transform="translate(9.754543, 8.801945) rotate(-45.000000) translate(-9.754543, -8.801945) " points="14.4772303 12.3490073 13.3016053 13.5246323 5.03185527 5.25488233 6.20748027 4.07925733"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

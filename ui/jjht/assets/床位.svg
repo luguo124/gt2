@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>床位</title>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4AA4FF" offset="0%"></stop>
+            <stop stop-color="#2C76F5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M13.0009301,0 C5.82368989,0.00717828587 0.00717775826,5.8241066 0,13.0018603 C0.00922959787,20.1788865 5.8262743,25.9938507 13.0027903,26 C20.177127,25.9907758 25.9907765,20.1767104 26,13.0018603 C25.9928241,5.82483201 20.1774438,0.00820342597 13.0009301,0 L13.0009301,0 Z" id="path-2"></path>
+        <filter x="-48.1%" y="-44.2%" width="196.2%" height="196.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.2   0 0 0 0 0.533333333   0 0 0 0 1  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.2   0 0 0 0 0.533333333   0 0 0 0 1  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="社区食堂-小程序菜单管理" transform="translate(-642.000000, -234.000000)">
+            <g id="编组-7" transform="translate(80.000000, 144.000000)">
+                <g id="编组-11" transform="translate(390.000000, 76.000000)">
+                    <g id="床位" transform="translate(172.000000, 14.000000)">
+                        <path d="M25,0 C38.8071187,-2.53632657e-15 50,11.1928813 50,25 C50,38.8071187 38.8071187,50 25,50 C11.1928813,50 1.69088438e-15,38.8071187 0,25 C-1.69088438e-15,11.1928813 11.1928813,2.53632657e-15 25,0 Z" id="矩形备份-2" fill="#D6EDFF"></path>
+                        <g id="编组" transform="translate(12.000000, 12.000000)">
+                            <g id="路径">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            </g>
+                            <path d="M18.0346283,16.1867487 L13.542248,13.5878649 L13.542248,6.5 C13.5181706,5.91897401 13.0401652,5.4603353 12.4586821,5.4603353 C11.877199,5.4603353 11.3991937,5.91897401 11.3751163,6.5 L11.3751163,14.0845736 C11.3751163,14.4864053 11.8736496,14.8231254 12.1991844,15.0091586 C12.2884739,15.1449628 12.5358804,15.2677447 12.6865565,15.35332 L17.1547542,18.0619634 C17.6737497,18.3596165 18.2336696,18.1828849 18.5331616,17.6657127 C18.8307934,17.1485404 18.5536238,16.4862622 18.0346283,16.1867487 L18.0346283,16.1867487 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

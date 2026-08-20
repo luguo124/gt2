@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>房间数</title>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FF9A65" offset="0%"></stop>
+            <stop stop-color="#FF6617" offset="100%"></stop>
+        </linearGradient>
+        <path d="M14.5003808,1.25750747 C14.5335625,1.38439546 14.5501533,1.51680032 14.5501533,1.65472204 L14.5501533,26.8171615 C14.5501533,27.7329618 13.8035664,28.4722222 12.885541,28.4722222 C12.7804658,28.4722222 12.6753906,28.4611885 12.5758457,28.4446379 L2.69324713,26.5578687 C1.12873396,26.2583552 -0.00173266773,24.8921156 1.99358802e-06,23.302916 L1.99358802e-06,5.72065449 C0.000628970893,4.19810221 1.04064328,2.87165767 2.52180866,2.50431987 L12.4928916,0.0493131635 C13.3832656,-0.171361596 14.2847002,0.369291565 14.5003808,1.25750747 Z M20.9873915,3.3704683 C22.817912,3.3704683 24.3055556,4.85450606 24.3055556,6.68058969 L24.3055556,23.9042547 C24.3055556,25.7303383 22.817912,27.2143761 20.9873915,27.2143761 L17.6139247,27.2143761 L17.6139247,3.3704683 L20.9873915,3.3704683 Z M12.1555449,12.3077961 C11.3470483,12.3077961 10.6892884,13.172431 10.6892884,14.2387002 C10.6892884,15.3049694 11.3436225,16.1696044 12.1555449,16.1696044 C12.9640415,16.1696044 13.6218015,15.3049694 13.6218015,14.2387002 C13.6218015,13.172431 12.9606157,12.3077961 12.1555449,12.3077961 Z" id="path-2"></path>
+        <filter x="-39.1%" y="-29.9%" width="178.2%" height="166.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.603921569   0 0 0 0 0.396078431  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.603921569   0 0 0 0 0.396078431  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="社区食堂-小程序菜单管理" transform="translate(-388.000000, -234.000000)">
+            <g id="编组-7" transform="translate(80.000000, 144.000000)">
+                <g id="编组-11" transform="translate(24.000000, 76.000000)">
+                    <g id="房间数" transform="translate(284.000000, 14.000000)">
+                        <path d="M25,0 C38.8071187,-2.53632657e-15 50,11.1928813 50,25 C50,38.8071187 38.8071187,50 25,50 C11.1928813,50 1.69088438e-15,38.8071187 0,25 C-1.69088438e-15,11.1928813 11.1928813,2.53632657e-15 25,0 Z" id="矩形备份-2" fill="#FFE9D6"></path>
+                        <g id="形状结合" transform="translate(13.194444, 11.111111)">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

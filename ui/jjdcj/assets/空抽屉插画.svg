@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="71px" viewBox="0 0 116 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>空抽屉插画</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F8D3BD" offset="0%"></stop>
+            <stop stop-color="#FFF7F2" stop-opacity="0.821585275" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-2" cx="57.0731707" cy="46.8292683" rx="57.0731707" ry="12.4390244"></ellipse>
+        <filter x="-2.6%" y="-12.1%" width="105.3%" height="124.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="2.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.698039216   0 0 0 0 0.858823529   0 0 0 0 1  0 0 0 0.232107736 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="70.1077952%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FDDECA" offset="0%"></stop>
+            <stop stop-color="#FFE2CF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-22.8%" y="-180.0%" width="145.5%" height="460.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="6" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="后台" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="餐食管理-配置管理-为空状态" transform="translate(-361.000000, -584.000000)">
+            <g id="空抽屉插画" transform="translate(362.000000, 585.000000)">
+                <g id="椭圆形备份" opacity="0.292489188">
+                    <use fill-opacity="0.27" fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                </g>
+                <ellipse id="椭圆形备份" fill="url(#linearGradient-4)" filter="url(#filter-5)" transform="translate(57.034935, 46.579268) scale(1, -1) translate(-57.034935, -46.579268) " cx="57.0349354" cy="46.5792683" rx="39.55" ry="5"></ellipse>
+                <path d="M32.195122,0 L81.9512195,0 L91.489341,20.6715397 L90.8331913,45.8602596 C90.7767208,48.0280897 89.0031132,49.7560976 86.8345478,49.7560976 L27.3147395,49.7560976 C25.1450003,49.7560976 23.3708811,48.0262847 23.3160184,45.8572392 L22.6789839,20.6715397 L22.6789839,20.6715397 L32.195122,0 Z" id="矩形备份-3" stroke="#F3D2BE" fill="#FFFFFF"></path>
+                <path d="M91.489341,21.2195122 L91.489341,46.722115 C91.489341,48.931254 89.69848,50.722115 87.489341,50.722115 L26.6789839,50.722115 C24.4698449,50.722115 22.6789839,48.931254 22.6789839,46.722115 L22.6789839,21.2195122 L22.6789839,21.2195122 L47.1053499,21.2195122 C47.6576346,21.2195122 48.1053499,21.6672274 48.1053499,22.2195122 L48.1053499,27.5365854 C48.1053499,28.0888701 48.5530651,28.5365854 49.1053499,28.5365854 L65.0558778,28.5365854 C65.6081626,28.5365854 66.0558778,28.0888701 66.0558778,27.5365854 L66.0558778,22.2195122 C66.0558778,21.6672274 66.5035931,21.2195122 67.0558778,21.2195122 L91.489341,21.2195122 L91.489341,21.2195122 Z" id="矩形备份-29" stroke="#F3D2BE" fill="#FFF7F2"></path>
+            </g>
+        </g>
+    </g>
+</svg>
