@@ -72,6 +72,8 @@
 }
 .table_cell {
 }
+._线段 {
+}
 ._连接 {
 }
 .sticky_1 {
@@ -193,5 +195,7 @@
   color:#999999;
 }
 .flow_shape {
+}
+.image3 {
 }
 textarea, select, input, button { outline: none; }
