@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u805_img {
+#u1674_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:1414px;
   height:768px;
 }
-#u805 {
+#u1674 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -33,20 +33,20 @@
   height:768px;
   display:flex;
 }
-#u805 .text {
+#u1674 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u805_text {
+#u1674_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u806_div {
+#u1675_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -64,7 +64,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u806 {
+#u1675 {
   border-width:0px;
   position:absolute;
   left:1381px;
@@ -76,19 +76,19 @@
   font-weight:400;
   font-style:normal;
 }
-#u806 .text {
+#u1675 .text {
   position:absolute;
   align-self:flex-start;
   padding:10px 10px 10px 10px;
   box-sizing:border-box;
   width:100%;
 }
-#u806_text {
+#u1675_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u807_img {
+#u1676_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -96,7 +96,7 @@
   width:1414px;
   height:770px;
 }
-#u807 {
+#u1676 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -105,20 +105,20 @@
   height:770px;
   display:flex;
 }
-#u807 .text {
+#u1676 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u807_text {
+#u1676_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u808_div {
+#u1677_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -133,7 +133,7 @@
   -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
 }
-#u808 {
+#u1677 {
   border-width:0px;
   position:absolute;
   left:1438px;
@@ -142,14 +142,14 @@
   height:150px;
   display:flex;
 }
-#u808 .text {
+#u1677 .text {
   position:absolute;
   align-self:flex-start;
   padding:10px 10px 10px 10px;
   box-sizing:border-box;
   width:100%;
 }
-#u808_text {
+#u1677_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
